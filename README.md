@@ -13,7 +13,7 @@
 2. Tried using linear-regression and non-linear regression but the forecast data of CO pollution in the far future showed minus value, so failed to use them
 3. Since a logarithmic function is a function that converges to zero, we used logistic regression for getting the forecast data of CO pollution according to the increase of the proportion of electric cars.
 
-> What should have been fixed
+> What should have been modified
 > > By working on a new project on October, I found that it would be much nicer if we used the characteristic of time series data. If we did so, we could use LSTM or prophet for getting the forecast data of CO pollustion way more precise. 
 
 
