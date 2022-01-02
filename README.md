@@ -1,5 +1,6 @@
 # Datacontest_07_2021(team project)
 ## Data analysis contest in South Korea on July, 2021(won a third prize)
+![july_contest](https://user-images.githubusercontent.com/86550939/147870207-51dc7836-13fb-4b7d-a86a-29c8d2ef3c6e.jpg)
 ##  The number of eco-friendly cars and the current status of air pollution by region
 
 ## Contents
